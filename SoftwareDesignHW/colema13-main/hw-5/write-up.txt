@@ -1,0 +1,7 @@
+Test setup error: test tree is empty - My best guess is that there are no tests that are actually being run. This is because I saw that test tree was empty, so maybe there haven't been any tests written yet.
+Error 1: bug in code - add function was adding the states and not state + value
+Error 2: bug in code - abs fuction was seeing if state was greater than 0 not less than 0
+Error 3: bug in test - sqrt function returns close to 3.0, but isn't 3.0
+Error 4: bug in code - sqrt function doesn't throw an exception for negative numbers
+The hardest part for me to test was the square root function because at first I thought that there was something wrong with my tests, but after looking at it for a long time I finally realized that there wasn't a throw exception.
+The first 3 functions were easy to test because there were no special cases. So 3 + 3 would equal 6 and 3 - 3 = 0. However the last two required two tests. One to test how they would usually work and one for their special cases. I am certain that I tested it well because I tested for all cases.

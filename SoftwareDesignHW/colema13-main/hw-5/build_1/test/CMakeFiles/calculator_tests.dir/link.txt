@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/calculator_tests.dir/CalculatorTests.cpp.o -o calculator_tests  ../src/libcalculator.a /usr/lib64/libboost_unit_test_framework.so 

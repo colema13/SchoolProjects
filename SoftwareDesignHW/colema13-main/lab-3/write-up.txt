@@ -1,0 +1,7 @@
+Link used to find out how to loop through c++ map: https://stackoverflow.com/questions/26281979/how-do-you-loop-through-a-stdmap
+The way I tested my code for through running it after I was finished and making sure certain inputs went through and others didn't. I also printed statements where I could like at the end of the program when freeing up the memory to make sure that the loop actually worked.
+I am somewhat confident that the code works because all inputs give the results I want, however I am not getting the warning the lab said we should get, so I am not sure that the destructor is working with or without the virtual function.
+The way I tested things was by dynamic cast worked and then writing the rest of the code. Then I tested the functionality of the entire prompt segment. I did this for the rest of the sections and then ran the whole thing.
+I think my testing was sufficient because I went through all cases that a person could enter. So, I made sure that they were entering numbers where numbers should go and strings where strings should go.
+One of my favorite parts of the lab was just getting to use new things like dynamic casting or looping through a map. It was very satisfying to have it work first try.
+command used to compile: g++ main.cpp BankAccount.cpp CheckingAccount.cpp SavingAccount.cpp Utils.cpp

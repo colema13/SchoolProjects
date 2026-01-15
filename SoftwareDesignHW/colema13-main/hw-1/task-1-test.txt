@@ -1,0 +1,11 @@
+1:
+Enter a value in Farenheit to covert to Celsius: 32
+32 Degrees Farenheit is 0 Degrees Celsius.
+
+2:
+Enter a value in Farenheit to covert to Celsius: 52
+32 Degrees Farenheit is 11.1111 Degrees Celsius.
+
+3:
+Enter a value in Farenheit to covert to Celsius: 100
+100 Degrees Farenheit is 37.7778 Degrees Celsius.

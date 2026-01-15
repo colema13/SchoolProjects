@@ -1,0 +1,6 @@
+Line coverage is at ~96%(29/30) and Branch Coverage is at ~66%(4/6)
+Expanded coverage for False branch of abs()
+Created test for clear function
+Expanded coverage for False branch of if(diff < 0) in sqrt()
+
+Everything is covered after adding factorial so Coverage for both should be at 100%(44/44 lines and 12/12 branches)

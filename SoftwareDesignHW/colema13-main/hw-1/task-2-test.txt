@@ -1,0 +1,23 @@
+1:
+How would you like to convert?
+[1] Farenheit to Celsius
+[2] Celsius to Farenheit
+1
+Enter a value in Farenheit to covert to Celsius: 1
+1 Degrees Farenheit is -17.2222 Degrees Celsius.
+
+2:
+How would you like to convert?
+[1] Farenheit to Celsius
+[2] Celsius to Farenheit
+2
+Enter a value in Celsius to covert to Farenheit: 52
+52 Degrees Celsius is 125.6 Degrees Farenheit.
+
+3:
+How would you like to convert?
+[1] Farenheit to Celsius
+[2] Celsius to Farenheit
+1
+Enter a value in Farenheit to covert to Celsius: 75
+75 Degrees Farenheit is 23.8889 Degrees Celsius.

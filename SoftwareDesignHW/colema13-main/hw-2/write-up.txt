@@ -1,0 +1,5 @@
+For each of my Functions, I test that if it was a getter function then it put out the info needed. 
+And if it was a setter function, I made sure to first change a few things in the class and then I used a getter to make sure those changes followed through.
+I also made sure that you couldn't enter a song number outside the number of songs that there were.
+I think this is sufficent testing because there are no user variables you need to account for like if a user put in an int where they should have put a string.
+However since there are no user inputs, testing that all functions work as intended and the classes work is all I need to do.

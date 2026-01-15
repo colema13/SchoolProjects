@@ -1,0 +1,3 @@
+command to compile used: g++ main.cpp BankAccount.cpp CheckingAccount.cpp SavingAccount.cpp
+
+The way I tested the code was that I went through each function and tested to see if it worked. Some of the functions were used in child classes so I didn't test them because they would already be tested in those child classes. I also tested to make sure that I couldn't deposit negative money because that doesn't exist in the real world.

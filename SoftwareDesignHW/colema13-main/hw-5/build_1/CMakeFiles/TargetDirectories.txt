@@ -1,0 +1,8 @@
+/home/users/colema13/SD251/hw-5/build_1/CMakeFiles/edit_cache.dir
+/home/users/colema13/SD251/hw-5/build_1/CMakeFiles/rebuild_cache.dir
+/home/users/colema13/SD251/hw-5/build_1/src/CMakeFiles/calculator.dir
+/home/users/colema13/SD251/hw-5/build_1/src/CMakeFiles/edit_cache.dir
+/home/users/colema13/SD251/hw-5/build_1/src/CMakeFiles/rebuild_cache.dir
+/home/users/colema13/SD251/hw-5/build_1/test/CMakeFiles/calculator_tests.dir
+/home/users/colema13/SD251/hw-5/build_1/test/CMakeFiles/edit_cache.dir
+/home/users/colema13/SD251/hw-5/build_1/test/CMakeFiles/rebuild_cache.dir
